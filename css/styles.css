@@ -1,0 +1,29 @@
+
+
+h1{
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 60px;
+}
+
+#caja{
+
+    border: 2px solid orange;
+    border-radius: 5px;
+    height: 400px;
+    width: 25%;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;  
+
+}
+
+input{
+    border: 1px solid orange;
+}
+
+/*Cambia el color del texto del input*/
+input, select, textarea{
+    color: #ff0000;
+}
+
